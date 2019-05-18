@@ -19,6 +19,7 @@
   "homepage": "https://github.com/radiocontrolledboats/whosaround-demo#readme",
   "dependencies": {
     "eslint": "^5.16.0",
-    "express": "^4.17.0"
+    "express": "^4.17.0",
+    "feathers": "^2.2.4"
   }
 }

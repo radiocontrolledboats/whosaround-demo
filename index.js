@@ -1,3 +1,6 @@
+// TODO: Use feathers
+// https://docs.feathersjs.com/
+
 const express = require('express');
 
 const app = express();
